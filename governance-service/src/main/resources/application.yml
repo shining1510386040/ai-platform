@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: governance-service
+server:
+  port: 0
